@@ -122,7 +122,7 @@ unordered_map<int, int> strategy4(int MAX, int playersNumber) {
 	}
 	return umap;
 }
-
+//proba
 int main() {
 	while (1) {
 		int MAX;
